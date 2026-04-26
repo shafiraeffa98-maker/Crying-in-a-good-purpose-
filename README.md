@@ -29,8 +29,31 @@ Online Business Marketing with chantal
 Harvard Innovation Labs 
 The Start Up Podcast 
 Speaks Revenue 
-- `research/linkedin-posts/`: 
+- `research/linkedin-posts/`: “I run a survey research program at [company], and I’m wondering if you do any original research consulting.”
+
+I could have said, “Nah, I only do soup-to-nuts Believable Research projects. Byeee!”
 - `research/youtube-transcripts/`: Deep-dive technical tutorials.
+# Erin balsa  
+
+
+Will we still need humans when AI takes over?
+
+“Not for most things” says Bill Gates.
+
+For SaaS businesses this is less a threat and more the biggest opportunity yet. 
+# Marie-Aurelie RigodinMarie-Aurelie Rigodin
+
+
+
+Kylie launched at the exact moment when an entire generation craved a new face.
+
+The $29 lip kit sold a dream, not a product.
+# Noor Gupta 
+
+- `research/youtube-transcripts/`: 
+# Business is Hard Until You Build These Systems
+make efficiency create the optimal result 
+
 
 ## Setup
 - **Tooling**: Claude Code (for summarizing transcripts), Supadata API (for YouTube).
