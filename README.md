@@ -72,7 +72,27 @@ I make money, I exist. How about I'm happy making money ?
 # Your Life as Every Rank in a Tech Startup 
 Maybe comparison works better understanding 
 
-- `redline/narrativematters/`:
+- `Red Line`:
+  # Narrative Matter 
 
 ## Setup
-- **Tooling**: Claude Code (for summarizing transcripts), Supadata API (for YouTube).
+- **Tooling**: [
+  {
+    "productName": "CRM Software App",
+    "vendorName": null,
+    "category": "BusinessApplication",
+    "overallRating": 4.5,
+    "easeOfUseRating": null,
+    "customerServiceRating": null,
+    "featuresRating": null,
+    "valueForMoneyRating": null,
+    "reviewCount": 4,
+    "pricing": null,
+    "freeTrialAvailable": true,
+    "freeVersionAvailable": true,
+    "description": "CRM solution that assists businesses with task lists, collaboration, Gantt charts, timesheets, presentations, and more.",
+    "deploymentOptions": [],
+    "url": "https://www.capterra.com/p/199936/CRM-Software-App/",
+    "scrapedAt": "2026-04-26T07:43:26.058Z"
+  }
+], Supadata API (for YouTube).
