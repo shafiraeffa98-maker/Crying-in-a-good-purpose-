@@ -31,29 +31,48 @@ The Start Up Podcast
 Speaks Revenue 
 - `research/linkedin-posts/`: “I run a survey research program at [company], and I’m wondering if you do any original research consulting.”
 
+# Erin balsa  
 I could have said, “Nah, I only do soup-to-nuts Believable Research projects. Byeee!”
 - `research/youtube-transcripts/`: Deep-dive technical tutorials.
-# Erin balsa  
-
-
+# Marie-Aurelie RigodinMarie-Aurelie Rigodin
 Will we still need humans when AI takes over?
 
 “Not for most things” says Bill Gates.
 
 For SaaS businesses this is less a threat and more the biggest opportunity yet. 
-# Marie-Aurelie RigodinMarie-Aurelie Rigodin
 
 
 
+# Noor Gupta 
 Kylie launched at the exact moment when an entire generation craved a new face.
 
 The $29 lip kit sold a dream, not a product.
-# Noor Gupta 
+
+
 
 - `research/youtube-transcripts/`: 
 # Business is Hard Until You Build These Systems
 make efficiency create the optimal result 
 
+# From Overwhelmed To Organized: Smarter B2B Marketing
+Smart aswell as your mindfull 
+
+# How to Get Your SaaS Pricing Structure Right
+Tidiest better 
+
+# This is how B2B SaaS founders lose the MOST money (after scaling 100+ startups)
+Dude, bigger better they say 
+
+# EP01: Your Roadmap to Meaningful Online Marketing
+5.0 bby! 
+
+# Harvard i-lab | How Are You Going to Make Money?
+I make money, I exist. How about I'm happy making money ? 
+
+# Your Life as Every Rank in a Tech Startup 
+Maybe comparison works better understanding 
+
+- `redline/narrativematters/`:
 
 ## Setup
 - **Tooling**: Claude Code (for summarizing transcripts), Supadata API (for YouTube).
